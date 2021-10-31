@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderHE-999
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me h.elnur174@outlook.com
 
